@@ -1,6 +1,6 @@
 # Docker Compose Lab — Flask + PostgreSQL (Animated + Live Logs)
 
-Two containers:
+Two containers: 
 - **web** (Flask) — form + table + animated connectivity + **live logs viewer**
 - **db** (PostgreSQL)
 
