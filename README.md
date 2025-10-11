@@ -1,6 +1,6 @@
 # New Era Class 24 — Flask + Docker Demo
 
-A clean Flask app to practice Dockerfiles, images, and containers.
+A clean Flask app to practice Dockerfiles, images, and containers..
 
 ## Quick start (local)
 ```bash
