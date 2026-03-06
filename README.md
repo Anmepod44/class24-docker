@@ -20,3 +20,4 @@ Buttons allow pause/resume and clearing the panes. Limit: 500 lines per pane.
 ```bash
 docker compose down -v
 ```
+  
