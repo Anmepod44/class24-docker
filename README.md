@@ -1,4 +1,4 @@
-# New Era Class 24 — Flask + Docker Demo
+# New Era Class 24 — Flask + Docker Demo :  This change was meant to trigger a build on code pipeline (aws)
 
 A clean Flask app to practice Dockerfiles, images, and containers.. a sample trigger to my pipeline
 
